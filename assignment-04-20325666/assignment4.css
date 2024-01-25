@@ -1,0 +1,13 @@
+/* edit backgrounds  */
+
+body{
+    background: linear-gradient(#CCFFFF, #CCFFE5,#CCCCFF,#CC99FF);
+    
+}
+
+#HomeAddress{
+   color: #9999FF ;
+}
+#ShippingAddress{
+    color:#9999FF ;
+}
